@@ -13,8 +13,6 @@
 
 Template for projects using `@opendollar/contracts` with Foundry
 
-**Documentation**
-
 ## Documentation
 
 - https://book.getfoundry.sh/
