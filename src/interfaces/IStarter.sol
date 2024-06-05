@@ -2,7 +2,7 @@
 pragma solidity 0.8.20;
 
 interface IStarter {
-  struct TestState {
+  struct State {
     uint256 foo;
   }
 }
