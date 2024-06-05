@@ -2,9 +2,9 @@
 pragma solidity 0.8.20;
 
 import {Math} from '@opendollar/libraries/Math.sol';
-import {ITest} from '@interfaces/ITest.sol';
+import {IStarter} from '@interfaces/IStarter.sol';
 
-contract Test is ITest {
+contract Starter is IStarter {
   using Math for uint256;
 
   constructor() {}

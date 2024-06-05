@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity 0.8.20;
 
-interface ITest {
+interface IStarter {
   struct TestState {
     uint256 foo;
   }
